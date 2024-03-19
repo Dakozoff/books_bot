@@ -5,7 +5,7 @@
 **Версия python не меньше 3.10**
 
   1. Установка библиотек
-    ```pip install -r requirements.txt```
+    - ```pip install -r requirements.txt```
 
 - Установить токен бота (@BotFather) в файл config.py
 
