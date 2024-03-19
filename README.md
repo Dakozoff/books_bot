@@ -1,8 +1,13 @@
 # books_bot
 Библиотека телеграмм бот
 
-Настройка:
-1) Установить токен бота (@BotFather) в файл config.py
+# Установка
+**Версия python не меньше 3.10**
+
+## Установка библиотек
+```pip install -r requirements.txt```
+
+- Установить токен бота (@BotFather) в файл config.py
 
 Установка:
 1) pip install -r requirements.txt
